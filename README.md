@@ -6,4 +6,4 @@ Useful resources when encountered with problems in Python
     
         Scrapy, 
         
-2. in `prepared`
+2. in `re_related`
