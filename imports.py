@@ -1,3 +1,6 @@
+# to install uninstalled packages
+#!{sys.executable} -m pip install --upgrade pip
+
 # sys
 import sys
 import os
@@ -10,8 +13,6 @@ import random
 
 # notebook related
 import tqdm
-
-!{sys.executable} -m pip install --upgrade tqdm
 
 # num realted
 import pandas as pd
